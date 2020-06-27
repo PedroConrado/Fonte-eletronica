@@ -10,6 +10,7 @@ Trabalho desenvolvido pelos alunos:
 * Chieppe
 
 ## O Circuito 
+Esquema do circuito, seguido de PBC. Os arquivos para o circuito estão disponíveis nesse mesmo repositório.
 ![alt text](https://github.com/PedroConrado/Fonte-eletronica/blob/master/2020-06-27_14-59.png)
 ![alt text](https://github.com/PedroConrado/Fonte-eletronica/blob/master/2020-06-27_15-15.png)
 
