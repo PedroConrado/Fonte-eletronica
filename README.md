@@ -1,5 +1,6 @@
 # PROJETO: FONTE RETIFICADORA (3V-12V)
-Trabalho desenvolvido no curso de Eletrônica para ciências de computação do professor Eduardo do Valle Simões, com o objetivo de implementar uma fonte de tensão entre 3V e 12V com capacidade de 100mA
+Trabalho desenvolvido no curso de Eletrônica para ciências de computação do professor Eduardo do Valle Simões.
+Objetivos: Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA. Diagrama da Fonte com os valores dos componentes escolhidos e uma lista de componentes, contendo valores e preço.Link para o circuito no Falstad ou outro simulador. Projeto do Esquemático e do PCB no EAGLE. Se montou o circuito, incluir fotos da placa/protoboard. E um VIDEO mostrando o Projeto funcionando ou simulando, e explicando porque escolheu os valores dos componentes (Upa no Youtube e poe um link no teu Github).
 
 ## SCC0180 - Eletrônica para a Computação
 
