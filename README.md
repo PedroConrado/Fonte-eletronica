@@ -4,10 +4,14 @@ Objetivos: Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100m
 
 ## SCC0180 - Eletrônica para a Computação
 
-### Desenvolvimento
+## Desenvolvimento
 Trabalho desenvolvido pelos alunos:
 * Pedro Henrique Conrado Ferreira de Oliveira - 11819091
 * Chieppe
+
+## O Circuito 
+![alt text](https://github.com/PedroConrado/Fonte-eletronica/blob/master/2020-06-27_14-59.png)
+![alt text](https://github.com/PedroConrado/Fonte-eletronica/blob/master/2020-06-27_15-15.png)
 
 ## Circuito Falstad
 http://tinyurl.com/yd2tqbon
