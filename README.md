@@ -10,3 +10,4 @@ Trabalho desenvolvido pelos alunos:
 
 ## Circuito Falstad
 https://tinyurl.com/yb2yxa53
+![alt text](https://github.com/PedroConrado/Fonte-eletronica/blob/master/2020-06-27_09-10.png)
