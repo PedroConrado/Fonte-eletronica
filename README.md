@@ -9,5 +9,5 @@ Trabalho desenvolvido pelos alunos:
 * Chieppe
 
 ## Circuito Falstad
-https://tinyurl.com/yb2yxa53
+http://tinyurl.com/yd2tqbon
 ![alt text](https://github.com/PedroConrado/Fonte-eletronica/blob/master/2020-06-27_09-10.png)
