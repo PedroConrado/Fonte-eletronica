@@ -25,7 +25,7 @@ http://tinyurl.com/yd2tqbon
 ## Componentes
 |Componente | Especificação | Justificativa |
 |-----------|---------------|---------------|
-|Transformador | 15v e 500mA | Responsável por transformar a corrente alternada de 220V para 17V|
+|Transformador | 15v e 500mA | Responsável por transformar a tensão de 127V para 17V |
 |Transistor NPN | 15v e 500mA | Permite controlar a passagem da corrente |
 |Resistores x4 | 2Kohm, 1Kohm, 390ohm, 120ohm | Limitam a corrente de acordo com os demais componentes |
 |Potenciômetro | 5Kohm | Regula a tensão da fonte entre 12V - 3V |
