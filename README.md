@@ -4,13 +4,16 @@ Objetivos: Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100m
 
 ## SCC0180 - Eletrônica para a Computação
 
+## Vídeo Explicativo
+[![Watch the video](https://www.youtube.com/watch?v=H6kj-XDnSmQ&feature=youtu.be)]
 ## Desenvolvimento
 Trabalho desenvolvido pelos alunos:
 * Pedro Henrique Conrado Ferreira de Oliveira - 11819091
-* Chieppe
+* Leonardo Chieppe - 9368730
 
 ## O Circuito 
 Esquema do circuito, seguido de PBC. Os arquivos para o circuito estão disponíveis nesse mesmo repositório.
+!
 ![alt text](https://github.com/PedroConrado/Fonte-eletronica/blob/master/2020-06-27_14-59.png)
 ![alt text](https://github.com/PedroConrado/Fonte-eletronica/blob/master/2020-06-27_15-15.png)
 
@@ -26,7 +29,7 @@ http://tinyurl.com/yd2tqbon
 |Resistores x4 | 2Kohm, 1Kohm, 390ohm, 120ohm | Limitam a corrente de acordo com os demais componentes |
 |Potenciômetro | 5Kohm | Regula a tensão da fonte entre 12V - 3V |
 |Ponte retificadora | 1000V e 2A | Transforma a corrente alternada em corrente contínua |
-|Capacitor | 470uF | Armazena corrente e libera quando a tensão interna é maior que a interna |
+|Capacitor | 470uF | Armazena corrente e libera quando a tensão interna é maior que a externa |
 |Diodo de Zener | 0,5W | Opera mantendo a tensão máxima do circuito em 13V |
 
 ### Custo Unidade:
