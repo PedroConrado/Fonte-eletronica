@@ -5,7 +5,7 @@ Objetivos: Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100m
 ## SCC0180 - Eletrônica para a Computação
 
 ## Vídeo Explicativo
-[![Watch the video](https://www.youtube.com/watch?v=H6kj-XDnSmQ]
+[![Watch the video](https://www.youtube.com/watch?v=H6kj-XDnSmQ)]
 ## Desenvolvimento
 Trabalho desenvolvido pelos alunos:
 * Pedro Henrique Conrado Ferreira de Oliveira - 11819091
