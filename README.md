@@ -14,7 +14,7 @@ Trabalho desenvolvido pelos alunos:
 
 ## O Circuito 
 Esquema do circuito, seguido de PBC. Os arquivos para o circuito estão disponíveis nesse mesmo repositório.
-!
+
 ![alt text](https://github.com/PedroConrado/Fonte-eletronica/blob/master/2020-07-02_17-23.png)
 ![alt text](https://github.com/PedroConrado/Fonte-eletronica/blob/master/2020-07-02_18-38.png)
 
